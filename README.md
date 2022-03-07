@@ -30,6 +30,7 @@ To run this script you need to install locally on your machine the following dep
 1. Install dependencies
 
 2. Clone this repository
+3. ```npm i || yarn```
 
 Configure `convert.mjs`
 Default:
@@ -76,6 +77,8 @@ const  options = {
 }
 ```
 
+4. Add your videos on input folder (if isn't, create one)
+5. ```npm start || yarn start```
   
 
 ## Features

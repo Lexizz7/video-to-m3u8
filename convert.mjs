@@ -3,6 +3,7 @@ import { startSpinner } from 'zx/experimental'
 
 const fs = require('fs')
 const inputFolder = './input/'
+if (!fs.existsSync(inputFolder)) fs.mkdirSync(inputFolder)
 
 const options = {
     thumbnail: true,
