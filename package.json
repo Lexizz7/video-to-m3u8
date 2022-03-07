@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "start": "chmod +x ./convert.mjs && zx ./convert.mjs"
+    },
+    "dependencies": {
+        "zx": "^5.2.0"
+    }
+}
