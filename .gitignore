@@ -1,5 +1,6 @@
 input/
 output/
+yarn.*
 # Logs
 logs
 *.log
