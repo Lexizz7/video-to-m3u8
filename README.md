@@ -1,5 +1,5 @@
 
-# Video to HLS
+# Video to HLS M3U8 (Stream format)
 
   
 

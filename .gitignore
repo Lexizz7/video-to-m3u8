@@ -1,3 +1,5 @@
+input/
+output/
 # Logs
 logs
 *.log
